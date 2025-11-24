@@ -44,7 +44,7 @@ let containsDuplicate = function(nums) {
 
 | Space Complexity | Time Complexity |
 | ---------------- | --------------- |
-| O(1)             | O(1)            |
+| O(1)             | O(n)            |
 
 ```js
  * @param {number[]} nums
